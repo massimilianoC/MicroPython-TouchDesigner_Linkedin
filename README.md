@@ -7,7 +7,6 @@ Questo progetto dimostra come leggere i dati da un sensore di temperatura DS18B2
 ### Hardware Richiesto
 * **Arduino Nano RP2040 Connect**
 * **Sensore di temperatura DS18B20** (collegato al pin GP26 / A0 del Nano RP2040 Connect)
-* Resistenza di pull-up da 4.7kΩ per il DS18B20 (se non già integrata nel modulo del sensore)
 * Connessione a una rete WiFi locale
 
 ### Software Utilizzato
