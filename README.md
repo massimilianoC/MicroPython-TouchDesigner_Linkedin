@@ -54,9 +54,6 @@ Questo progetto dimostra come leggere i dati da un sensore di temperatura DS18B2
         * **Catena di Elaborazione CHOP (es. `lag1`, `limit1`, `math1`, `speed1`, `lookup1`, `null1`):** Questi operatori CHOP vengono usati per elaborare ulteriormente il segnale di temperatura (smussarlo, limitarlo, scalarlo) per renderlo adatto a controllare altri parametri, come ad esempio un valore Alpha per la trasparenza.
         * **Visualizzazione (es. `CHOP to TOP`):** Per visualizzare il valore del canale CHOP risultante.
 
-4.  **`TouchDesigner.jpg`**
-    * **Descrizione:** Uno screenshot che illustra la rete di operatori all'interno del progetto TouchDesigner, mostrando come i dati UDP vengono ricevuti, elaborati e resi disponibili.
-
 ## Flusso di Lavoro del Progetto
 
 1.  Il sensore DS18B20 misura la temperatura.
